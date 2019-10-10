@@ -1,5 +1,5 @@
 {
-  "name": "mutex",
+  "name": "easy-mutex",
   "version": "1.0.0",
   "description": "This package is the mutex tool for nodejs",
   "main": "index.js",
